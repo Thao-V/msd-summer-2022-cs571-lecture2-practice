@@ -4,6 +4,7 @@ The `university` collection is below.
 ```JavaScript
 {
     "_id":1,
+    "name": "MIU",
     "programs": [
         {"_id":1, "name":"Compro"},
         {"_id":2, "name":"MSD"},
